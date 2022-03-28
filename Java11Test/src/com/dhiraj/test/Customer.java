@@ -1,5 +1,5 @@
 package com.dhiraj.test;
-
+// Customer details 
 public class Customer {
     private int cid;
     private String cname;
