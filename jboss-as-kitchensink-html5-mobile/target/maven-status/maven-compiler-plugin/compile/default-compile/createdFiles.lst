@@ -1,0 +1,10 @@
+org\jboss\tools\example\html5\util\JSONPRequestFilter$1$1.class
+org\jboss\tools\example\html5\util\JSONPRequestFilter.class
+org\jboss\tools\example\html5\model\Member.class
+org\jboss\tools\example\html5\service\MemberRegistration.class
+org\jboss\tools\example\html5\util\Resources.class
+org\jboss\tools\example\html5\data\MemberRepository.class
+org\jboss\tools\example\html5\rest\MemberService.class
+org\jboss\tools\example\html5\model\Member_.class
+org\jboss\tools\example\html5\rest\JaxRsActivator.class
+org\jboss\tools\example\html5\util\JSONPRequestFilter$1.class
