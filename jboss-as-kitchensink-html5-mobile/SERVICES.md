@@ -8,8 +8,6 @@ By default the base URL for services is `/jboss-as-kitchensink-html5-mobile/rest
 
 MemberService End Points
 ------------------------
-
-
 * Request type: GET
 * Return type: JSON
 * Response example:
@@ -17,8 +15,6 @@ MemberService End Points
 ```javascript
 [{"id":1,"name":"Jane Smith","email":"jane.smith@mailinator.com","phoneNumber":"2125551212"},{"id":0,"name":"John Smith","email":"john.smith@mailinator.com","phoneNumber":"2125551212"}]
 ```
-
-
 
 * Request type: POST
 * Request type: JSON
