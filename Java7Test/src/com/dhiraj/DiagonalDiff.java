@@ -2,7 +2,7 @@ package com.dhiraj;
 
 import java.util.ArrayList;
 import java.util.List;
-
+// DiagonalDiff of elements
 public class DiagonalDiff {
     /**
      * complete the diagonal di
