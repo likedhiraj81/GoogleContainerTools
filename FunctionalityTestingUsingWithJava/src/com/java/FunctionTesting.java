@@ -49,8 +49,6 @@ public class FunctionTesting {
 		hs.add(emp3);
 		hs.add(emp4);
 		hs.add(emp5);
-		hs.add(emp4);
-		hs.add(emp5);
 		Iterator<Employee1> i= hs.iterator();
 		while (i.hasNext()) {
 			Employee1 employee = (Employee1)i.next();
