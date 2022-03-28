@@ -10,7 +10,7 @@
 	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-web/4.1.4.RELEASE/spring-web-4.1.4.RELEASE.jar" sourcepath="M2_REPO/org/springframework/spring-web/4.1.4.RELEASE/spring-web-4.1.4.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="D:/All jars/junit5spring-4.1.7.jar"/>
 	<classpathentry kind="lib" path="D:/All jars/spring-web-4.3.11.RELEASE.jar"/>
-	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/Utils">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
