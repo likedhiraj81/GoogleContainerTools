@@ -7,6 +7,8 @@ public class Customer {
     public String city;
     private long name;
     private int pincode;
+    private String state;
+    private String country;
     public int getCid() {
 		return cid;
 	}
